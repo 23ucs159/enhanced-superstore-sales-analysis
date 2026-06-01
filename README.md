@@ -1,5 +1,5 @@
 #  Enhanced Superstore Sales Analysis
-# Overviw
+# Overview
 
 This project presents an in-depth Exploratory Data Analysis (EDA) of the Enhanced Superstore Sales Dataset. The objective is to uncover actionable business insights by analyzing sales, profit, discounts, customer behavior, and regional performance using Python data analysis libraries.
 
